@@ -2,4 +2,12 @@ Esta es la historia de Víctor Arrieta
 
 Víctor Arrieta tiene 12 años y nacio en Venezuela
 
+<<<<<<< HEAD
 Mañana nos enfocaremos en su vida laboral
+=======
+Hoy hablaremos de su historia
+
+En cámara parece alto, pero en verdad no es tan alto.
+
+Cristiano ronaldo siempre es el mejor
+>>>>>>> 2dac57a180f65c38966c5a679a7ae77255f73cee
